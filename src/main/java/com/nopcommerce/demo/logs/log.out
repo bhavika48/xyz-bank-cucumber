@@ -1,0 +1,2 @@
+2023-05-23 21:05:698 INFO  CustomerLoginPage :79 - Clicking on customer login button [[ChromeDriver: chrome on WINDOWS (d47090804ba6ea92dad93364646716ee)] -> xpath: //button[normalize-space()='Customer Login']]
+2023-05-23 21:05:41 INFO  CustomerLoginPage :85 - Select Customer From DropDown Ann[[ChromeDriver: chrome on WINDOWS (d47090804ba6ea92dad93364646716ee)] -> xpath: //select[@id='userSelect']]
